@@ -1,12 +1,12 @@
-# Smart Home Mockup
+# Smart Home Dashboard - Top 3 Best Projects of the Cohort
 
-![Dashboard Picture](/ReadMeImages/DashboardPicture.png)
-
+<p align="center">
+  <img alt="Dashboard Picture" src="/ReadMePictures/DashboardPicture.png">
+</p>
+  
 ## Inspiration
 
-This Smart Home Dashboard was the developed in the context of our Internet of Things class. This project is supposed to mimic the functionalities of a real
-smart home dashboard in terms of displaying room temperature, humidity, light level, and much more. The application was developed in conjecture with actual
-sensors and IoT devices in order to show accurate information. 
+This Smart Home Dashboard was the developed in the context of our Internet of Things class. This project is supposed to mimic the functionalities of a real smart home dashboard in terms of displaying room temperature, humidity, light level, and much more. The application was developed in conjecture with actual sensors and IoT devices in order to show accurate information. 
 
 
 
